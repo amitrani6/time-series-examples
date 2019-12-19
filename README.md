@@ -1,2 +1,2 @@
 # time-series-examples
-This repository contains examples of time series data.
+This repository contains examples of time series analysis.
