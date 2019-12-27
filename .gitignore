@@ -120,8 +120,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
-# Folders
-Private_Data/
+# Files
+passwords.py
 
 # mypy
 .mypy_cache/
