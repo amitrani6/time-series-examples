@@ -1,7 +1,7 @@
 # time-series-examples
 This repository contains examples of time series analysis.
 
-This repository contains five files and two folders:
+This repository contains six files and two folders:
 
   1) `price_data` - A folder that holds stock prices in `.csv` files
   
@@ -15,4 +15,6 @@ This repository contains five files and two folders:
   
   6) **Weather_data.ipynb** - A Jupyter Notebook containing a visualization of weather data
   
-  7) **trend_analysis.ipynb** - A Jupyter Notebook containing examples of stationarity
+  7) **time_series_removing_trends_and_decomposition.ipynb** - A Jupyter Notebook containing the removal of trends for time series analysis
+  
+  8) **trend_analysis.ipynb** - A Jupyter Notebook containing examples of stationarity
