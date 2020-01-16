@@ -1,5 +1,5 @@
 # Import necessary libraries
-#import pandas as pd
+import pandas as pd
 #from pandas import Series
 #import numpy as np
 
@@ -25,16 +25,16 @@ def stationarity_check(TS):
     rolstd = TS.rolling(window = 8, center = False).std()
     
     # Perform the Dickey Fuller Test
-    dftest = adfuller(TS['#Passengers']) # change the passengers column as required 
+    dftest = adfuller(TS) # change the passengers column as required 
     
     #Plot rolling statistics:
-    fig = plt.figure(figsize=(12,6))
-    orig = plt.plot(TS, color='blue',label='Original')
-    mean = plt.plot(rolmean, color='red', label='Rolling Mean')
-    std = plt.plot(rolstd, color='black', label = 'Rolling Std')
-    plt.legend(loc='best')
-    plt.title('Rolling Mean & Standard Deviation')
-    plt.show(block=False)
+    #fig = plt.figure(figsize=(12,6))
+    #orig = plt.plot(TS, color='blue',label='Original')
+    #mean = plt.plot(rolmean, color='red', label='Rolling Mean')
+    #std = plt.plot(rolstd, color='black', label = 'Rolling Std')
+    #plt.legend(loc='best')
+    #plt.title('Rolling Mean & Standard Deviation')
+    #plt.show(block=False)
     
     # Print Dickey-Fuller test results
     print ('Results of Dickey-Fuller Test:')
