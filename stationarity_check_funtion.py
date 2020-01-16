@@ -1,16 +1,16 @@
 # Import necessary libraries
-import pandas as pd
-from pandas import Series
-import numpy as np
+#import pandas as pd
+#from pandas import Series
+#import numpy as np
 
-import matplotlib.pylab as plt
-%matplotlib inline
+#import matplotlib.pylab as plt
+#matplotlib inline
 
 # Import passengers.csv and set it as a time-series object. Plot the TS
-data = pd.read_csv('passengers.csv')
-ts = data.set_index('Month')
-ts.index = pd.to_datetime(ts.index)
-ts.plot(figsize=(12,6), color="blue");
+#data = pd.read_csv('passengers.csv')
+#ts = data.set_index('Month')
+#ts.index = pd.to_datetime(ts.index)
+#ts.plot(figsize=(12,6), color="blue");
 
 # Create a function to check for the stationarity of a given timeseries using rolling stats and DF test
 # Collect and package the code from previous lab
@@ -47,4 +47,4 @@ def stationarity_check(TS):
     return None
 
 # Code here
-stationarity_check(ts)
+#stationarity_check(ts)
