@@ -26,9 +26,9 @@ This repository contains eight files and two folders:
   11) **trend_analysis.ipynb** - A Jupyter Notebook containing examples of stationarity
   
   
- Relevant Articles:
+ # Relevant Articles Written About This Repository:
  
- 1) ["Working With Time Series Data"](https://towardsdatascience.com/working-with-time-series-data-a8872ebcac3) (Towards Data Science) - An article about time series data visualizations with matplotlib and Plotly, based on **Time Series Stock Sample Data.ipynb*
+ 1) ["Working With Time Series Data"](https://towardsdatascience.com/working-with-time-series-data-a8872ebcac3) (Towards Data Science) - An article about time series data visualizations with matplotlib and Plotly, based on **Time Series Stock Sample Data.ipynb**
  
  2) ["Time Series and Trend Analysis"](https://medium.com/datadriveninvestor/time-series-and-trend-analysis-6a4f255f3d6e) (Data Driven Investor) - An article about time series trend analysis using matplotlib, its mpl component, and statsmodels based on **trend_analysis.ipynb**
  
