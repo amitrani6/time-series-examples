@@ -1,7 +1,7 @@
 # Time Series Examples
 This repository contains examples of time series analysis.
 
-This repository contains eight files and two folders:
+This repository contains nine files and two folders:
 
   1) `price_data` - A folder that holds stock prices in `.csv` files
   
