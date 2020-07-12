@@ -1,4 +1,4 @@
-# time-series-examples
+# Time Series Examples
 This repository contains examples of time series analysis.
 
 This repository contains eight files and two folders:
@@ -34,4 +34,4 @@ This repository contains eight files and two folders:
  
  3) ["Achieving Stationarity With Time Series Data"](https://towardsdatascience.com/achieving-stationarity-with-time-series-data-abd59fd8d5a0) (Towards Data Science) - An article about stationarity in time series data based on **time_series_removing_trends_and_decomposition.ipynb**
  
-4) ["Time Series Decomposition and Statsmodels Parameters"](https://medium.com/@amitrani/time-series-decomposition-and-statsmodels-parameters-69e54d035453) - An article about time series decomposition models using the statsmodels module based on **time_series_removing_trends_and_decomposition.ipynb**
+4) ["Time Series Decomposition and Statsmodels Parameters"](https://medium.com/@amitrani/time-series-decomposition-and-statsmodels-parameters-69e54d035453) (Towards Data Science) - An article about time series decomposition models using the statsmodels module based on **time_series_removing_trends_and_decomposition.ipynb**
