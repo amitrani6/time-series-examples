@@ -122,6 +122,7 @@ venv.bak/
 
 # Files
 passwords.py
+fmppassword.py
 
 # mypy
 .mypy_cache/
