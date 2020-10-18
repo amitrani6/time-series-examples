@@ -32,10 +32,10 @@ This repository contains twelve files and one folder:
   
  # Relevant Articles Written About This Repository:
  
- 1) ["Working With Time Series Data"](https://towardsdatascience.com/working-with-time-series-data-a8872ebcac3) (Towards Data Science) - An article about time series data visualizations with matplotlib and Plotly, based on **Time Series Stock Sample Data.ipynb**
+ 1) ["Working With Time Series Data"](https://towardsdatascience.com/working-with-time-series-data-a8872ebcac3) (Towards Data Science) - An article about time series data visualizations with matplotlib and Plotly, based on **Time Series Stock Sample Data.ipynb** - *Published December 19, 2019*
  
- 2) ["Time Series and Trend Analysis"](https://medium.com/datadriveninvestor/time-series-and-trend-analysis-6a4f255f3d6e) (Data Driven Investor) - An article about time series trend analysis using matplotlib, its mpl component, and statsmodels based on **trend_analysis.ipynb**
+ 2) ["Time Series and Trend Analysis"](https://medium.com/datadriveninvestor/time-series-and-trend-analysis-6a4f255f3d6e) (Data Driven Investor) - An article about time series trend analysis using matplotlib, its mpl component, and statsmodels based on **trend_analysis.ipynb** - *Published December 26, 2019*
  
- 3) ["Achieving Stationarity With Time Series Data"](https://towardsdatascience.com/achieving-stationarity-with-time-series-data-abd59fd8d5a0) (Towards Data Science) - An article about stationarity in time series data based on **time_series_removing_trends_and_decomposition.ipynb**
+ 3) ["Achieving Stationarity With Time Series Data"](https://towardsdatascience.com/achieving-stationarity-with-time-series-data-abd59fd8d5a0) (Towards Data Science) - An article about stationarity in time series data based on **time_series_removing_trends_and_decomposition.ipynb** - *Published January 9, 2020*
  
-4) ["Time Series Decomposition and Statsmodels Parameters"](https://medium.com/@amitrani/time-series-decomposition-and-statsmodels-parameters-69e54d035453) (Towards Data Science) - An article about time series decomposition models using the statsmodels module based on **time_series_removing_trends_and_decomposition.ipynb**
+4) ["Time Series Decomposition and Statsmodels Parameters"](https://medium.com/@amitrani/time-series-decomposition-and-statsmodels-parameters-69e54d035453) (Towards Data Science) - An article about time series decomposition models using the statsmodels module based on **time_series_removing_trends_and_decomposition.ipynb** - *Published January 16, 2020, Updated July 11, 2020*
