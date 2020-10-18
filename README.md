@@ -1,23 +1,23 @@
 # Time Series Examples
 This repository contains examples of time series analysis.
 
-This repository contains ten files and three folders:
+This repository contains twelve files and one folder:
 
-  1) `financial_data` - A folder containing `.csv` files of financial data which can be appended
-  
-  2) `price_data` - A folder that holds stock prices in `.csv` files
-  
-  3) `supporting_data` - A folder that holds weather data in `.csv` files
+  1) `data_files` - A folder containing subfolders of `.csv` files for this repository. The subfolders are titled by subject, i.e. `financial_data` contains fundamental data, `price_data` contains stock prices, and `supporting_data` contains general time series data for analysis
 
-  4) **gitignore** - Contains the files excluded from this repository
+  2) **gitignore** - Contains the files excluded from this repository
   
-  5) **Obtain_and_Append_Data.ipynb** - A notebook which contains code that appends time series data from an API, to avoid request limitations
+  3) **Obtain_and_Append_Data.ipynb** - A notebook which contains code that appends time series data from an API, to avoid request limitations
 
-  6) **README.md** - This document
+  4) **README.md** - This document
 
-  7) **Time Series Stock Sample Data.ipynb** - A Jupyter Notebook containing examples of preparing time series data for analysis
+  5) **Time Series Stock Sample Data.ipynb** - A Jupyter Notebook containing examples of preparing time series data for analysis
   
-  8) **Weather_data.ipynb** - A Jupyter Notebook containing a visualization of weather data
+  6) **Time_Series_Models_Examples.ipynb** - A Jupyter Notebook containing multiple time series models
+  
+  7) **Weather_data.ipynb** - A Jupyter Notebook containing a visualization of weather data
+  
+  8) **fundamental_trend_analysis.ipynb** - A Jupyter Notebook containing analysis of fundamental financial data
   
   9) **requirements.txt** - The requirements file for running the files of this repository
   
