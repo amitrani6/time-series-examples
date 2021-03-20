@@ -17,7 +17,7 @@ ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1590020220914/wo
 ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1590796925971/work
 ipython-genutils==0.2.0
 jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1592619347183/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 jsonschema==3.2.0
 jupyter-client==6.1.3
 jupyter-core==4.6.3
